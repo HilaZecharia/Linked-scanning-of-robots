@@ -1,1 +1,0 @@
-# Linked-scanning-of-robots
